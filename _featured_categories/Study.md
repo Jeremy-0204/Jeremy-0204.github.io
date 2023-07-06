@@ -3,15 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Papers
+title: Study
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Papers
+slug: Study
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  논문 내용 정리
-
+  예시
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
