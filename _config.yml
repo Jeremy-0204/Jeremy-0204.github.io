@@ -291,7 +291,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /Machine Learning/
+    permalink:         /study/Machine Learning/
     output:            true
 
   featured_tags:
