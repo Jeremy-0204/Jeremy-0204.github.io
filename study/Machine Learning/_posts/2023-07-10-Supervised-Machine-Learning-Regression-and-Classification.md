@@ -18,6 +18,13 @@ Coursera 플러스를 결제하고 앤드류 응 교수님의 Machine Learning �
 
 ## Welcome to Machine Learning!
 
+머신러닝은 정말 다양한 분야에서 사용되고 있음을 간략하게 설명하셨음.  
 
+결국 핵심은 컴퓨터로 하여금 분명하게 (Explicitly) 학습하게 하는 것이다.  
 
 ## Applications of Machine Learning
+
+왜 이렇게 다양하게 사용되는가?  
+
+머신러닝은 인공지능의 한 분야로 기계가 스스로 학습하는 것을 의미함.  인간이 직접 프로그래밍을 해주는 것보다 더 explicit한 문제들을 해결 가능하기에 다양한 분야에서 적용이 가능해진 것이다.  
+
