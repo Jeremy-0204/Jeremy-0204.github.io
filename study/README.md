@@ -13,3 +13,5 @@ I AM SHOWING STUDY LISTS
 Here are the categories I divided
 
 [Machine Learning](/study/Machine Learning/)
+
+[Deep Learning](/study/Deep Learning/)
